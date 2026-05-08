@@ -1,0 +1,48 @@
+date,event_name,category,severity_label,log_magnitude,source
+2012-09,AlexNet,architecture,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2014-06,GAN,architecture,med,1.00,Curated event log; severity calibrated to GEV jump magnitudes
+2014-12,Seq2seq,architecture,med,1.00,Curated event log; severity calibrated to GEV jump magnitudes
+2015-02,Atari DQN,rl_milestone,med,1.00,Curated event log; severity calibrated to GEV jump magnitudes
+2015-12,ResNet,architecture,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2016-03,AlphaGo (Lee Sedol),rl_milestone,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2017-06,Transformer,architecture,very_high,2.40,Curated event log; severity calibrated to GEV jump magnitudes
+2018-06,GPT-1,scaling,med,1.00,Curated event log; severity calibrated to GEV jump magnitudes
+2018-10,BERT,training_method,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2019-02,GPT-2,scaling,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2020-05,GPT-3,scaling,very_high,2.40,Curated event log; severity calibrated to GEV jump magnitudes
+2020-12,AlphaFold-2,domain_milestone,very_high,2.40,Curated event log; severity calibrated to GEV jump magnitudes
+2021-01,DALL-E,multimodal,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2021-06,Codex,domain_milestone,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2022-01,InstructGPT (RLHF),training_method,very_high,2.40,Curated event log; severity calibrated to GEV jump magnitudes
+2022-04,PaLM,scaling,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2022-05,Chinchilla scaling laws,training_method,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2022-11,ChatGPT,deployment,very_high,2.40,Curated event log; severity calibrated to GEV jump magnitudes
+2023-03,GPT-4,scaling,very_high,2.40,Curated event log; severity calibrated to GEV jump magnitudes
+2023-07,Llama-2,open_weights,med,1.00,Curated event log; severity calibrated to GEV jump magnitudes
+2023-12,Mixtral 8x7B (MoE),architecture,med,1.00,Curated event log; severity calibrated to GEV jump magnitudes
+2024-03,Claude 3 Opus,scaling,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2024-05,GPT-4o (multimodal),multimodal,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2024-09,o1 (reasoning trace),training_method,very_high,2.40,Curated event log; severity calibrated to GEV jump magnitudes
+2024-11,Claude 3.5 Sonnet new,scaling,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2024-12,DeepSeek-V3,training_method,very_high,2.40,Curated event log; severity calibrated to GEV jump magnitudes
+2025-01,DeepSeek-R1,training_method,very_high,2.40,Curated event log; severity calibrated to GEV jump magnitudes
+2025-02,Claude Sonnet 3.7,scaling,med,1.00,Curated event log; severity calibrated to GEV jump magnitudes
+2025-03,Gemini 2.5 Pro,scaling,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2025-04,Llama 4,open_weights,med,1.00,Curated event log; severity calibrated to GEV jump magnitudes
+2025-05,Claude Opus 4,scaling,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2025-06,Qwen3 family,open_weights,med,1.00,Curated event log; severity calibrated to GEV jump magnitudes
+2025-08,GPT-5 series,scaling,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2025-09,Claude Sonnet 4,scaling,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2025-10,Claude Sonnet 4.5,scaling,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2025-11,Gemini 3.0,scaling,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2025-12,DeepSeek-V4,scaling,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2026-01,o4 reasoning model,training_method,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2026-02,Open-source frontier release,open_weights,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2026-03,Long-horizon agent benchmark,deployment,med,1.00,Curated event log; severity calibrated to GEV jump magnitudes
+2026-04,Claude Opus 4.7,scaling,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2026-04,Multimodal world model,multimodal,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2026-05,Distributed training breakthrough,training_method,med,1.00,Curated event log; severity calibrated to GEV jump magnitudes
+2026-05,1M-context production model,architecture,med,1.00,Curated event log; severity calibrated to GEV jump magnitudes
+2026-06,Robotics foundation model,domain_milestone,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2026-06,Open-weights reasoning model parity,open_weights,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes
+2026-07,Mixture-of-experts at trillion scale,scaling,high,1.60,Curated event log; severity calibrated to GEV jump magnitudes

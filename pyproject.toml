@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "airisk"
+version = "0.1.0"
+description = "AIRisk-2030 NeurIPS 2026 Competition: baseline and evaluation infrastructure"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [
+  { name = "AIRisk-2030 Organizers", email = "airisk2030-organizers@googlegroups.com" }
+]
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.24",
+  "scipy>=1.10",
+  "pandas>=2.0",
+  "matplotlib>=3.7",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=7.4",
+  "ruff>=0.1",
+]
+viz = [
+  "plotly>=5.14",
+]
+
+[project.urls]
+Repository = "https://github.com/airisk-2030/starter-kit"
+Documentation = "https://github.com/airisk-2030/starter-kit/tree/main/docs"
+
+[tool.setuptools.packages.find]
+include = ["airisk*"]

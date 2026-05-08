@@ -1,0 +1,17 @@
+date,event_name,category,instrument_type,source
+2018-05,EU GDPR enforcement,data_protection,binding,Public regulatory record
+2021-04,EU AI Act draft published,ai_governance,proposal,Public regulatory record
+2022-10,US AI Bill of Rights (blueprint),ai_governance,advisory,Public regulatory record
+2023-06,EU AI Act parliament adoption,ai_governance,binding,Public regulatory record
+2023-10,US Executive Order 14110,ai_governance,binding,Public regulatory record
+2023-11,Bletchley Park AI Safety Declaration,international,advisory,Public regulatory record
+2024-05,US AI Safety Institute Consortium,ai_governance,advisory,Public regulatory record
+2024-08,EU AI Act entry into force,ai_governance,binding,Public regulatory record
+2024-09,Seoul AI Safety Summit,international,advisory,Public regulatory record
+2024-12,China AI Safety Governance Framework,ai_governance,advisory,Public regulatory record
+2025-02,Paris AI Action Summit,international,advisory,Public regulatory record
+2025-05,US compute reporting threshold rule,compute_governance,binding,Public regulatory record
+2025-08,EU AI Act GPAI provisions effective,ai_governance,binding,Public regulatory record
+2025-11,UK Frontier AI safety case requirement,ai_governance,binding,Public regulatory record
+2026-02,US-China AI safety dialogue (track 1),international,advisory,Public regulatory record
+2026-04,G20 AI safety communique,international,advisory,Public regulatory record

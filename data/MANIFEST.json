@@ -1,0 +1,93 @@
+{
+  "version": "0.1.0-rc1",
+  "license_data": "CC-BY-4.0",
+  "license_code": "MIT",
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "data/capability/benchmark_scores.csv",
+      "sha256": "36fe31b9b46b1b4152566ad24138416ffec7c78d1a7154eb5ab15bd3494b8de9",
+      "rows": 112
+    },
+    {
+      "path": "data/capability/breakthrough_events.csv",
+      "sha256": "b5385d449c8e1e3d2c6dc1d4f3dcfb8a41474492327066d2e5daef30518060e6",
+      "rows": 47
+    },
+    {
+      "path": "data/capability/metr_task_horizons.csv",
+      "sha256": "de58e5ce089a0473d3351aaf40e45d0485818ce7aacd194a2f5db6d9e8830fef",
+      "rows": 14
+    },
+    {
+      "path": "data/capability/model_metadata.csv",
+      "sha256": "546c2f7ff0575d9df08f17143644c5c8d2f0ed9d0f0605fc2dea5ab1198f0221",
+      "rows": 29
+    },
+    {
+      "path": "data/compute/chip_capacity.csv",
+      "sha256": "289048dab451d07fd372ef9ca94f05b8c6d9afa383574998411316a0dcfead0f",
+      "rows": 104
+    },
+    {
+      "path": "data/compute/compute_trends.csv",
+      "sha256": "9ad7b7c631b9af286a5411e328658f34a7e57518c896e0cae1088a6dd4d24c3c",
+      "rows": 34
+    },
+    {
+      "path": "data/compute/energy_demand.csv",
+      "sha256": "a5ec638c486d4aaa1aed6ad8ea0e5b6e8c61152cd9bf75005cbd3fb2786109e0",
+      "rows": 11
+    },
+    {
+      "path": "data/compute/rare_earth_production.csv",
+      "sha256": "f97d265e77f68efda61b26ca6abf7b579ef7f21fe92ef188c4a28cf3f5c048d1",
+      "rows": 14
+    },
+    {
+      "path": "data/economic/productivity_multiplier.csv",
+      "sha256": "9394e0575f10e1ebb305b48fa0d798125a9119cd43e1ab00f9603eded837818c",
+      "rows": 70
+    },
+    {
+      "path": "data/economic/sectoral_automation.csv",
+      "sha256": "9bd63eab3fa9147cb1c865920fd30272acd95c88b11c85ad51a4389fd85d1c10",
+      "rows": 182
+    },
+    {
+      "path": "data/economic/unemployment.csv",
+      "sha256": "c6fecd3e73a2c2a2daca62ea58b3d65d6de491f264f55f838d6e05bbeb5a6316",
+      "rows": 52
+    },
+    {
+      "path": "data/geopolitical/country_attributes.csv",
+      "sha256": "a7e52ac35b104819f31ef76a48c069219cddf0a98f2c491db385296cf0d5c7e2",
+      "rows": 8
+    },
+    {
+      "path": "data/geopolitical/country_capabilities.csv",
+      "sha256": "74e3d48269f59cfd6b656dc3c0d90afb1fe39fda741dd713af7fa2e2857fff28",
+      "rows": 72
+    },
+    {
+      "path": "data/geopolitical/transfer_matrix.csv",
+      "sha256": "5dd5d87d37f751b30633382415f239ace9a5d9dd9aefa5c9d5b8eb68c4ffc5bc",
+      "rows": 72
+    },
+    {
+      "path": "data/incidents/annual_counts.csv",
+      "sha256": "508376212853c252f19e599c0e1cbe0b97024fb159eeebe1fd3e5548aab87b62",
+      "rows": 33
+    },
+    {
+      "path": "data/incidents/incident_log.csv",
+      "sha256": "6432882f445a783ff905de9edebacf575b6022e1304f311b5fbaf393913da13b",
+      "rows": 16
+    },
+    {
+      "path": "data/policy/policy_events.csv",
+      "sha256": "ab8d4d67ece30a2fdc33954337711bf98d12d96fd28f68473e66f76a318e0ee0",
+      "rows": 16
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+year,quarter,fab,advanced_node_capacity,unit,source
+2020,1,TSMC,42000,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2020,1,Samsung,10800,wafers_per_month,Samsung financial reports
+2020,1,Intel,4800,wafers_per_month,Intel investor presentations
+2020,1,Other,2400,wafers_per_month,SemiAnalysis aggregated
+2020,2,TSMC,43774,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2020,2,Samsung,11256,wafers_per_month,Samsung financial reports
+2020,2,Intel,5003,wafers_per_month,Intel investor presentations
+2020,2,Other,2501,wafers_per_month,SemiAnalysis aggregated
+2020,3,TSMC,45624,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2020,3,Samsung,11732,wafers_per_month,Samsung financial reports
+2020,3,Intel,5214,wafers_per_month,Intel investor presentations
+2020,3,Other,2607,wafers_per_month,SemiAnalysis aggregated
+2020,4,TSMC,47551,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2020,4,Samsung,12227,wafers_per_month,Samsung financial reports
+2020,4,Intel,5434,wafers_per_month,Intel investor presentations
+2020,4,Other,2717,wafers_per_month,SemiAnalysis aggregated
+2021,1,TSMC,49560,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2021,1,Samsung,12744,wafers_per_month,Samsung financial reports
+2021,1,Intel,5664,wafers_per_month,Intel investor presentations
+2021,1,Other,2832,wafers_per_month,SemiAnalysis aggregated
+2021,2,TSMC,51654,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2021,2,Samsung,13282,wafers_per_month,Samsung financial reports
+2021,2,Intel,5903,wafers_per_month,Intel investor presentations
+2021,2,Other,2952,wafers_per_month,SemiAnalysis aggregated
+2021,3,TSMC,53836,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2021,3,Samsung,13844,wafers_per_month,Samsung financial reports
+2021,3,Intel,6153,wafers_per_month,Intel investor presentations
+2021,3,Other,3076,wafers_per_month,SemiAnalysis aggregated
+2021,4,TSMC,56110,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2021,4,Samsung,14428,wafers_per_month,Samsung financial reports
+2021,4,Intel,6413,wafers_per_month,Intel investor presentations
+2021,4,Other,3206,wafers_per_month,SemiAnalysis aggregated
+2022,1,TSMC,58481,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2022,1,Samsung,15038,wafers_per_month,Samsung financial reports
+2022,1,Intel,6684,wafers_per_month,Intel investor presentations
+2022,1,Other,3342,wafers_per_month,SemiAnalysis aggregated
+2022,2,TSMC,60951,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2022,2,Samsung,15673,wafers_per_month,Samsung financial reports
+2022,2,Intel,6966,wafers_per_month,Intel investor presentations
+2022,2,Other,3483,wafers_per_month,SemiAnalysis aggregated
+2022,3,TSMC,63526,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2022,3,Samsung,16335,wafers_per_month,Samsung financial reports
+2022,3,Intel,7260,wafers_per_month,Intel investor presentations
+2022,3,Other,3630,wafers_per_month,SemiAnalysis aggregated
+2022,4,TSMC,66210,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2022,4,Samsung,17025,wafers_per_month,Samsung financial reports
+2022,4,Intel,7567,wafers_per_month,Intel investor presentations
+2022,4,Other,3783,wafers_per_month,SemiAnalysis aggregated
+2023,1,TSMC,69007,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2023,1,Samsung,17745,wafers_per_month,Samsung financial reports
+2023,1,Intel,7887,wafers_per_month,Intel investor presentations
+2023,1,Other,3943,wafers_per_month,SemiAnalysis aggregated
+2023,2,TSMC,71923,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2023,2,Samsung,18494,wafers_per_month,Samsung financial reports
+2023,2,Intel,8220,wafers_per_month,Intel investor presentations
+2023,2,Other,4110,wafers_per_month,SemiAnalysis aggregated
+2023,3,TSMC,74961,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2023,3,Samsung,19276,wafers_per_month,Samsung financial reports
+2023,3,Intel,8567,wafers_per_month,Intel investor presentations
+2023,3,Other,4283,wafers_per_month,SemiAnalysis aggregated
+2023,4,TSMC,78128,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2023,4,Samsung,20090,wafers_per_month,Samsung financial reports
+2023,4,Intel,8929,wafers_per_month,Intel investor presentations
+2023,4,Other,4464,wafers_per_month,SemiAnalysis aggregated
+2024,1,TSMC,81429,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2024,1,Samsung,20939,wafers_per_month,Samsung financial reports
+2024,1,Intel,9306,wafers_per_month,Intel investor presentations
+2024,1,Other,4653,wafers_per_month,SemiAnalysis aggregated
+2024,2,TSMC,84869,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2024,2,Samsung,21823,wafers_per_month,Samsung financial reports
+2024,2,Intel,9699,wafers_per_month,Intel investor presentations
+2024,2,Other,4850,wafers_per_month,SemiAnalysis aggregated
+2024,3,TSMC,88454,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2024,3,Samsung,22745,wafers_per_month,Samsung financial reports
+2024,3,Intel,10109,wafers_per_month,Intel investor presentations
+2024,3,Other,5055,wafers_per_month,SemiAnalysis aggregated
+2024,4,TSMC,92191,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2024,4,Samsung,23706,wafers_per_month,Samsung financial reports
+2024,4,Intel,10536,wafers_per_month,Intel investor presentations
+2024,4,Other,5268,wafers_per_month,SemiAnalysis aggregated
+2025,1,TSMC,96086,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2025,1,Samsung,24708,wafers_per_month,Samsung financial reports
+2025,1,Intel,10981,wafers_per_month,Intel investor presentations
+2025,1,Other,5491,wafers_per_month,SemiAnalysis aggregated
+2025,2,TSMC,100145,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2025,2,Samsung,25752,wafers_per_month,Samsung financial reports
+2025,2,Intel,11445,wafers_per_month,Intel investor presentations
+2025,2,Other,5723,wafers_per_month,SemiAnalysis aggregated
+2025,3,TSMC,104376,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2025,3,Samsung,26840,wafers_per_month,Samsung financial reports
+2025,3,Intel,11929,wafers_per_month,Intel investor presentations
+2025,3,Other,5964,wafers_per_month,SemiAnalysis aggregated
+2025,4,TSMC,108785,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2025,4,Samsung,27973,wafers_per_month,Samsung financial reports
+2025,4,Intel,12433,wafers_per_month,Intel investor presentations
+2025,4,Other,6216,wafers_per_month,SemiAnalysis aggregated
+2026,1,TSMC,113381,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2026,1,Samsung,29155,wafers_per_month,Samsung financial reports
+2026,1,Intel,12958,wafers_per_month,Intel investor presentations
+2026,1,Other,6479,wafers_per_month,SemiAnalysis aggregated
+2026,2,TSMC,118171,wafers_per_month,TSMC quarterly disclosures (aggregated)
+2026,2,Samsung,30387,wafers_per_month,Samsung financial reports
+2026,2,Intel,13505,wafers_per_month,Intel investor presentations
+2026,2,Other,6753,wafers_per_month,SemiAnalysis aggregated
